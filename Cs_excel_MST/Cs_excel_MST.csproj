@@ -31,10 +31,10 @@
     <ResolveComReferenceSilent>true</ResolveComReferenceSilent>
     <IsWebBootstrapper>True</IsWebBootstrapper>
     <BootstrapperEnabled>true</BootstrapperEnabled>
-    <PublishUrl>published\</PublishUrl>
+    <PublishUrl>publish\</PublishUrl>
     <InstallUrl>https://github.com/CDStefan/Cs_excel_MST/releases/tag/V1/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>2.0.0.6</ApplicationVersion>
+    <ApplicationVersion>2.0.0.7</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
