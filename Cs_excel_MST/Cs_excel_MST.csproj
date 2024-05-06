@@ -34,7 +34,7 @@
     <PublishUrl>C:\Users\scaravelea\source\repos\Cs_excel_MST\Cs_excel_MST\published\</PublishUrl>
     <InstallUrl>https://raw.githubusercontent.com/CDStefan/Cs_excel_MST/master/Cs_excel_MST/published/</InstallUrl>
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>2.0.0.8</ApplicationVersion>
+    <ApplicationVersion>2.0.0.9</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
     <UpdateInterval>0</UpdateInterval>
