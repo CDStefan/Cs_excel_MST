@@ -34,13 +34,13 @@
     <PublishUrl>publish\</PublishUrl>
     <InstallUrl />
     <TargetCulture>en</TargetCulture>
-    <ApplicationVersion>1.0.0.1</ApplicationVersion>
+    <ApplicationVersion>1.0.0.2</ApplicationVersion>
     <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
     <UpdateEnabled>true</UpdateEnabled>
-    <UpdateInterval>7</UpdateInterval>
+    <UpdateInterval>0</UpdateInterval>
     <UpdateIntervalUnits>days</UpdateIntervalUnits>
     <ProductName>Cs_excel_MST</ProductName>
-    <PublisherName />
+    <PublisherName>scaravelea</PublisherName>
     <SupportUrl />
     <FriendlyName>Cs_excel_MST</FriendlyName>
     <OfficeApplicationDescription />
